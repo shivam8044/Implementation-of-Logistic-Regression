@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0e1f29a3-15de-46bb-8f62-4c637ad60bf4)# Implementation-of-Logistic-Regression
+
 # Import necessary libraries
 import numpy as np
 from sklearn.datasets import load_iris
