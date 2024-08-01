@@ -153,7 +153,7 @@ print(df)
 ![Screenshot 2024-08-01 194022](https://github.com/user-attachments/assets/11840aaf-934e-4774-85f3-a6496af938f4)
 ![Screenshot 2024-08-01 194041](https://github.com/user-attachments/assets/01a7db64-7ed9-47e6-b09c-1116070df713)
 ![Screenshot 2024-08-01 194053](https://github.com/user-attachments/assets/181f142f-dcd0-4ac7-a99c-a76c0ee4bc83)
-![Screenshot 2024-08-01 194113](https://github.com/user-attachments/assets/5606a2f9-9f1b-4e78-a8bf-c0cc5be6304f)
+
 
 
 
